@@ -1,2 +1,10 @@
-# -KeyPulse-Pro-Smart-Educational-Logger
-KeyPulse Pro is an advanced, educational keylogging tool designed for ethical hacking training, system behavior analysis, and digital forensics practice. Built with simplicity, security, and aesthetics in mind, this project provides a sleek and responsive user interface for monitoring and reviewing keyboard activity in real-time.
+# KeyInsight
+
+**KeyInsight** is an ethical keystroke tracking tool for Windows, created for educational and parental monitoring use (with proper consent). It features:
+
+- Start/Stop logging
+- Simple PyQt5 UI
+- Timestamped key logs
+
+## 🔐 Legal Notice
+This tool is intended **only** for ethical and educational purposes. Do **not** use it to monitor devices without full consent.

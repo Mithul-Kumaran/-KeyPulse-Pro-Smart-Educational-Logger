@@ -1,0 +1,10 @@
+[2025-06-24 08:10:44] Key Pressed: h
+[2025-06-24 08:10:44] Key Pressed: e
+[2025-06-24 08:10:45] Key Pressed: l
+[2025-06-24 08:10:45] Key Pressed: l
+[2025-06-24 08:10:45] Key Pressed: o
+[2025-06-24 08:10:48] Key Pressed: a
+[2025-06-24 08:10:49] Key Pressed: l
+[2025-06-24 08:10:49] Key Pressed: l
+[2025-06-24 08:10:50] Key Pressed: [Enter]
+[2025-06-24 08:10:51] Key Pressed: [Space]
